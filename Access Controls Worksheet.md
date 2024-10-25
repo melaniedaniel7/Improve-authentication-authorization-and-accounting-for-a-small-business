@@ -4,7 +4,7 @@ Disclaimer:
 
 ### Event log
 
-<img src="https://github.com/melaniedaniel7/Improve-authentication-authorization-and-accounting-for-a-small-business/blob/a3322db8f51f9717bac93be824f0f02fb83d4a00/Screenshot%202024-10-25%20at%2013.04.06.png" width="300" />
+<img src="https://github.com/melaniedaniel7/Improve-authentication-authorization-and-accounting-for-a-small-business/blob/a3322db8f51f9717bac93be824f0f02fb83d4a00/Screenshot%202024-10-25%20at%2013.04.06.png" width="200" />
 
 ### Authorization/authentication note(s)
 - The event type that caused the incident was information.
@@ -13,7 +13,7 @@ Disclaimer:
 
 ### Employee directory
 
-<img src="" width="600" />
+<img src="https://github.com/melaniedaniel7/Improve-authentication-authorization-and-accounting-for-a-small-business/blob/6d24a9da9d2376d5dc83f12c4c6a89b3ef4dca5e/Screenshot%202024-10-25%20at%2013.05.32.png" width="900" />
 
 ### Authorization/authentication issue(s)
 - The user, Robert Taylor Jr.	in the legal attorney role, had admin level access.
