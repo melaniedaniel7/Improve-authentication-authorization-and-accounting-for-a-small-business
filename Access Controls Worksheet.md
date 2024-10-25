@@ -4,7 +4,7 @@ Disclaimer:
 
 ### Event log
 
-<img src="" width="600" />
+<img src="https://github.com/melaniedaniel7/Improve-authentication-authorization-and-accounting-for-a-small-business/blob/a3322db8f51f9717bac93be824f0f02fb83d4a00/Screenshot%202024-10-25%20at%2013.04.06.png" width="300" />
 
 ### Authorization/authentication note(s)
 - The event type that caused the incident was information.
